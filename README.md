@@ -4,7 +4,7 @@ A Streamlit dashboard for exploring oil and gas greenhouse-gas emissions data, s
 
 ## Live Demo
 
-**[https://YOUR-APP-NAME.streamlit.app](https://YOUR-APP-NAME.streamlit.app)**
+**[https://emissions-analytics-dashboard.streamlit.app](https://emissions-analytics-dashboard.streamlit.app/)**
 
 The AI Q&A feature requires an `ANTHROPIC_API_KEY` to function. The public live demo doesn't have this configured, so you'll see a graceful fallback message there instead of a live AI response — this is intentional error handling, not a missing feature. See the Setup section below to run it locally with your own key for the full AI Q&A experience.
 
