@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/validate_palette.js \"#2FA88A,#E8A33D,#5B8FA8\" --mode dark)",
+      "Bash(node scripts/validate_palette.js \"#2FA88A,#4E8FD1,#C9862E\" --mode dark)",
+      "Bash(node scripts/validate_palette.js \"#2FA88A,#3E7CB1,#B98B2E\" --mode dark)",
+      "Bash(node scripts/validate_palette.js \"#2FA88A,#4F8FD9,#C98A2E\" --mode dark)",
+      "Bash(node screenshot2.js dashboard2.png)",
+      "Bash(powershell -Command \"Stop-Process -Id 12408 -Force\")",
+      "Bash(./.venv/Scripts/streamlit.exe run *)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:8532)",
+      "Read(//tmp/**)",
+      "Bash(node screenshot.js dashboard_final.png)",
+      "Bash(netstat -ano)",
+      "Bash(powershell -Command \"Stop-Process -Id 6052 -Force\")",
+      "Bash(./.venv/Scripts/python.exe -c ' *)"
+    ]
+  }
+}

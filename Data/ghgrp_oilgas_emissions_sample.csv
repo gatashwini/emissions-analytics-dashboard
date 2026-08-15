@@ -1,0 +1,181 @@
+facility_name,state,industry_segment,reporting_year,gas_type,co2e_emissions_mt,production_boe
+Permian Basin Gas Plant,TX,Onshore Production,2019,CO2,24167.4,890047.0
+Permian Basin Gas Plant,TX,Onshore Production,2019,CH4,18455.1,889986.0
+Permian Basin Gas Plant,TX,Onshore Production,2019,N2O,1318.2,645209.0
+Permian Basin Gas Plant,TX,Onshore Production,2020,CO2,28274.6,2002788.0
+Permian Basin Gas Plant,TX,Onshore Production,2020,CH4,21591.5,2270181.0
+Permian Basin Gas Plant,TX,Onshore Production,2020,N2O,1542.2,551461.0
+Permian Basin Gas Plant,TX,Onshore Production,2021,CO2,32038.2,2581107.0
+Permian Basin Gas Plant,TX,Onshore Production,2021,CH4,24465.5,1030848.0
+Permian Basin Gas Plant,TX,Onshore Production,2021,N2O,1747.5,954562.0
+Permian Basin Gas Plant,TX,Onshore Production,2022,CO2,30493.5,1260606.0
+Permian Basin Gas Plant,TX,Onshore Production,2022,CH4,23285.9,1811891.0
+Permian Basin Gas Plant,TX,Onshore Production,2022,N2O,1663.3,1579863.0
+Permian Basin Gas Plant,TX,Onshore Production,2023,CO2,34677.6,2029632.0
+Permian Basin Gas Plant,TX,Onshore Production,2023,CH4,26481.1,848735.0
+Permian Basin Gas Plant,TX,Onshore Production,2023,N2O,1891.5,1230362.0
+Eagle Ford Compressor Station,TX,Transmission,2019,CO2,21959.2,1785586.0
+Eagle Ford Compressor Station,TX,Transmission,2019,CH4,16768.8,1981036.0
+Eagle Ford Compressor Station,TX,Transmission,2019,N2O,1197.8,616126.0
+Eagle Ford Compressor Station,TX,Transmission,2020,CO2,24522.0,926310.0
+Eagle Ford Compressor Station,TX,Transmission,2020,CH4,18725.9,662629.0
+Eagle Ford Compressor Station,TX,Transmission,2020,N2O,1337.6,2872214.0
+Eagle Ford Compressor Station,TX,Transmission,2021,CO2,26963.7,2520993.0
+Eagle Ford Compressor Station,TX,Transmission,2021,CH4,20590.4,1261534.0
+Eagle Ford Compressor Station,TX,Transmission,2021,N2O,1470.7,744180.0
+Eagle Ford Compressor Station,TX,Transmission,2022,CO2,26279.6,1600381.0
+Eagle Ford Compressor Station,TX,Transmission,2022,CH4,20068.0,805096.0
+Eagle Ford Compressor Station,TX,Transmission,2022,N2O,1433.4,1737942.0
+Eagle Ford Compressor Station,TX,Transmission,2023,CO2,23618.3,2773301.0
+Eagle Ford Compressor Station,TX,Transmission,2023,CH4,18035.8,1146950.0
+Eagle Ford Compressor Station,TX,Transmission,2023,N2O,1288.3,2156306.0
+Bakken Wellpad Complex A,ND,Onshore Production,2019,CO2,19777.7,2923962.0
+Bakken Wellpad Complex A,ND,Onshore Production,2019,CH4,15102.9,2437832.0
+Bakken Wellpad Complex A,ND,Onshore Production,2019,N2O,1078.8,2848747.0
+Bakken Wellpad Complex A,ND,Onshore Production,2020,CO2,23649.7,1994750.0
+Bakken Wellpad Complex A,ND,Onshore Production,2020,CH4,18059.8,2804686.0
+Bakken Wellpad Complex A,ND,Onshore Production,2020,N2O,1290.0,721231.0
+Bakken Wellpad Complex A,ND,Onshore Production,2021,CO2,21376.9,613068.0
+Bakken Wellpad Complex A,ND,Onshore Production,2021,CH4,16324.2,1313326.0
+Bakken Wellpad Complex A,ND,Onshore Production,2021,N2O,1166.0,1471693.0
+Bakken Wellpad Complex A,ND,Onshore Production,2022,CO2,22554.3,2571844.0
+Bakken Wellpad Complex A,ND,Onshore Production,2022,CH4,17223.2,1391883.0
+Bakken Wellpad Complex A,ND,Onshore Production,2022,N2O,1230.2,1202336.0
+Bakken Wellpad Complex A,ND,Onshore Production,2023,CO2,24752.5,852311.0
+Bakken Wellpad Complex A,ND,Onshore Production,2023,CH4,18901.9,2505492.0
+Bakken Wellpad Complex A,ND,Onshore Production,2023,N2O,1350.1,686377.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2019,CO2,46010.2,2278355.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2019,CH4,35135.1,2475439.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2019,N2O,2509.6,2014900.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2020,CO2,57452.1,2127693.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2020,CH4,43872.5,2787399.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2020,N2O,3133.8,2625096.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2021,CO2,90660.5,738525.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2021,CH4,69231.6,1427046.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2021,N2O,4945.1,2172103.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2022,CO2,63948.1,1978244.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2022,CH4,48833.1,1186804.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2022,N2O,3488.1,1903109.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2023,CO2,65358.0,2929280.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2023,CH4,49909.7,2622285.0
+DJ Basin Processing Facility,CO,Natural Gas Processing,2023,N2O,3565.0,2304324.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2019,CO2,16277.4,769729.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2019,CH4,12430.0,578573.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2019,N2O,887.9,2091026.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2020,CO2,27527.4,1771427.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2020,CH4,21020.9,2768916.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2020,N2O,1501.5,1123231.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2021,CO2,17434.3,2388878.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2021,CH4,13313.5,1071995.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2021,N2O,951.0,692450.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2022,CO2,16896.0,903053.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2022,CH4,12902.4,2824244.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2022,N2O,921.6,2520301.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2023,CO2,17991.1,2678651.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2023,CH4,13738.7,2509180.0
+Anadarko Basin Gathering Hub,OK,Gathering and Boosting,2023,N2O,981.3,966425.0
+Marcellus Shale Site 12,PA,Onshore Production,2019,CO2,48638.3,1295009.0
+Marcellus Shale Site 12,PA,Onshore Production,2019,CH4,37142.0,775130.0
+Marcellus Shale Site 12,PA,Onshore Production,2019,N2O,2653.0,1069838.0
+Marcellus Shale Site 12,PA,Onshore Production,2020,CO2,46262.5,2545037.0
+Marcellus Shale Site 12,PA,Onshore Production,2020,CH4,35327.7,2651826.0
+Marcellus Shale Site 12,PA,Onshore Production,2020,N2O,2523.4,517380.0
+Marcellus Shale Site 12,PA,Onshore Production,2021,CO2,49009.1,1543528.0
+Marcellus Shale Site 12,PA,Onshore Production,2021,CH4,37425.1,1055270.0
+Marcellus Shale Site 12,PA,Onshore Production,2021,N2O,2673.2,799663.0
+Marcellus Shale Site 12,PA,Onshore Production,2022,CO2,49288.2,2857274.0
+Marcellus Shale Site 12,PA,Onshore Production,2022,CH4,37638.3,1308007.0
+Marcellus Shale Site 12,PA,Onshore Production,2022,N2O,2688.4,1796977.0
+Marcellus Shale Site 12,PA,Onshore Production,2023,CO2,55221.1,1409074.0
+Marcellus Shale Site 12,PA,Onshore Production,2023,CH4,42168.9,2929455.0
+Marcellus Shale Site 12,PA,Onshore Production,2023,N2O,3012.1,2906118.0
+Gulf Coast LNG Terminal,LA,Transmission,2019,CO2,32785.9,1166953.0
+Gulf Coast LNG Terminal,LA,Transmission,2019,CH4,25036.5,2941537.0
+Gulf Coast LNG Terminal,LA,Transmission,2019,N2O,1788.3,1527593.0
+Gulf Coast LNG Terminal,LA,Transmission,2020,CO2,17479.0,1362678.0
+Gulf Coast LNG Terminal,LA,Transmission,2020,CH4,13347.6,2085878.0
+Gulf Coast LNG Terminal,LA,Transmission,2020,N2O,953.4,2201764.0
+Gulf Coast LNG Terminal,LA,Transmission,2021,CO2,20068.7,1619458.0
+Gulf Coast LNG Terminal,LA,Transmission,2021,CH4,15325.2,1882233.0
+Gulf Coast LNG Terminal,LA,Transmission,2021,N2O,1094.7,1981742.0
+Gulf Coast LNG Terminal,LA,Transmission,2022,CO2,18904.3,1424136.0
+Gulf Coast LNG Terminal,LA,Transmission,2022,CH4,14436.0,1105400.0
+Gulf Coast LNG Terminal,LA,Transmission,2022,N2O,1031.1,2507849.0
+Gulf Coast LNG Terminal,LA,Transmission,2023,CO2,21219.8,2958558.0
+Gulf Coast LNG Terminal,LA,Transmission,2023,CH4,16204.2,1497061.0
+Gulf Coast LNG Terminal,LA,Transmission,2023,N2O,1157.4,2541080.0
+San Juan Basin Field Ops,NM,Onshore Production,2019,CO2,42794.5,2645897.0
+San Juan Basin Field Ops,NM,Onshore Production,2019,CH4,32679.5,1314897.0
+San Juan Basin Field Ops,NM,Onshore Production,2019,N2O,2334.2,1050603.0
+San Juan Basin Field Ops,NM,Onshore Production,2020,CO2,41874.5,2523753.0
+San Juan Basin Field Ops,NM,Onshore Production,2020,CH4,31976.9,1371665.0
+San Juan Basin Field Ops,NM,Onshore Production,2020,N2O,2284.1,740441.0
+San Juan Basin Field Ops,NM,Onshore Production,2021,CO2,42651.9,1493930.0
+San Juan Basin Field Ops,NM,Onshore Production,2021,CH4,32570.5,1794378.0
+San Juan Basin Field Ops,NM,Onshore Production,2021,N2O,2326.5,2594275.0
+San Juan Basin Field Ops,NM,Onshore Production,2022,CO2,39586.5,2338040.0
+San Juan Basin Field Ops,NM,Onshore Production,2022,CH4,30229.7,1022679.0
+San Juan Basin Field Ops,NM,Onshore Production,2022,N2O,2159.3,1853620.0
+San Juan Basin Field Ops,NM,Onshore Production,2023,CO2,38771.5,1071375.0
+San Juan Basin Field Ops,NM,Onshore Production,2023,CH4,29607.3,937387.0
+San Juan Basin Field Ops,NM,Onshore Production,2023,N2O,2114.8,2955421.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2019,CO2,32312.9,1895734.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2019,CH4,24675.3,2706591.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2019,N2O,1762.5,971768.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2020,CO2,28094.0,2250895.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2020,CH4,21453.6,2616653.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2020,N2O,1532.4,2640811.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2021,CO2,28669.4,2719425.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2021,CH4,21893.0,2627321.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2021,N2O,1563.8,2839087.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2022,CO2,30720.7,2172471.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2022,CH4,23459.5,1951717.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2022,N2O,1675.7,1430707.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2023,CO2,31441.5,2934160.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2023,CH4,24009.9,1209802.0
+Uinta Basin Processing Hub,UT,Natural Gas Processing,2023,N2O,1715.0,1263410.0
+Haynesville Compressor Sta.,LA,Transmission,2019,CO2,26448.5,545188.0
+Haynesville Compressor Sta.,LA,Transmission,2019,CH4,20197.0,1734734.0
+Haynesville Compressor Sta.,LA,Transmission,2019,N2O,1442.6,947057.0
+Haynesville Compressor Sta.,LA,Transmission,2020,CO2,28248.3,2360426.0
+Haynesville Compressor Sta.,LA,Transmission,2020,CH4,21571.5,2302350.0
+Haynesville Compressor Sta.,LA,Transmission,2020,N2O,1540.8,1270152.0
+Haynesville Compressor Sta.,LA,Transmission,2021,CO2,30038.2,1772035.0
+Haynesville Compressor Sta.,LA,Transmission,2021,CH4,22938.3,2090832.0
+Haynesville Compressor Sta.,LA,Transmission,2021,N2O,1638.4,1126155.0
+Haynesville Compressor Sta.,LA,Transmission,2022,CO2,31115.5,2947232.0
+Haynesville Compressor Sta.,LA,Transmission,2022,CH4,23760.9,1716855.0
+Haynesville Compressor Sta.,LA,Transmission,2022,N2O,1697.2,2765247.0
+Haynesville Compressor Sta.,LA,Transmission,2023,CO2,30956.3,1375196.0
+Haynesville Compressor Sta.,LA,Transmission,2023,CH4,23639.4,2112758.0
+Haynesville Compressor Sta.,LA,Transmission,2023,N2O,1688.5,2172310.0
+Powder River Basin Site 4,WY,Onshore Production,2019,CO2,44529.1,2421385.0
+Powder River Basin Site 4,WY,Onshore Production,2019,CH4,34004.0,609009.0
+Powder River Basin Site 4,WY,Onshore Production,2019,N2O,2428.9,2986376.0
+Powder River Basin Site 4,WY,Onshore Production,2020,CO2,43158.8,1198901.0
+Powder River Basin Site 4,WY,Onshore Production,2020,CH4,32957.6,2708735.0
+Powder River Basin Site 4,WY,Onshore Production,2020,N2O,2354.1,2369297.0
+Powder River Basin Site 4,WY,Onshore Production,2021,CO2,46839.6,1326876.0
+Powder River Basin Site 4,WY,Onshore Production,2021,CH4,35768.4,1881912.0
+Powder River Basin Site 4,WY,Onshore Production,2021,N2O,2554.9,1930731.0
+Powder River Basin Site 4,WY,Onshore Production,2022,CO2,46562.1,688366.0
+Powder River Basin Site 4,WY,Onshore Production,2022,CH4,35556.5,1264243.0
+Powder River Basin Site 4,WY,Onshore Production,2022,N2O,2539.8,977278.0
+Powder River Basin Site 4,WY,Onshore Production,2023,CO2,40073.7,1713200.0
+Powder River Basin Site 4,WY,Onshore Production,2023,CH4,30601.7,1431717.0
+Powder River Basin Site 4,WY,Onshore Production,2023,N2O,2185.8,1486729.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2019,CO2,44064.6,2975135.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2019,CH4,33649.3,850210.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2019,N2O,2403.5,1795824.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2020,CO2,82132.2,2351922.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2020,CH4,62719.1,2242539.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2020,N2O,4479.9,2256210.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2021,CO2,51403.7,1233980.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2021,CH4,39253.7,2523403.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2021,N2O,2803.8,2525283.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2022,CO2,62910.2,2783101.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2022,CH4,48040.5,1778356.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2022,N2O,3431.5,1753791.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2023,CO2,68817.6,2124910.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2023,CH4,52551.6,2254917.0
+Fayetteville Shale Facility,AR,Gathering and Boosting,2023,N2O,3753.7,2489482.0
