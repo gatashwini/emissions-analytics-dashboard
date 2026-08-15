@@ -2,6 +2,14 @@
 
 A Streamlit dashboard for exploring oil and gas greenhouse-gas emissions data, styled as a dark, industrial monitoring tool. It ships with a sample CSV, lets you upload your own data, and includes an AI Q&A panel grounded in whatever's currently filtered.
 
+## Live Demo
+
+**[https://YOUR-APP-NAME.streamlit.app](https://YOUR-APP-NAME.streamlit.app)**
+
+The AI Q&A feature requires an `ANTHROPIC_API_KEY` to function. The public live demo doesn't have this configured, so you'll see a graceful fallback message there instead of a live AI response — this is intentional error handling, not a missing feature. See the Setup section below to run it locally with your own key for the full AI Q&A experience.
+
+The app auto-deploys from the `main` branch, so the live link always reflects the latest pushed version.
+
 ## Features
 
 - **Dark, control-room themed UI** — custom CSS overrides the default Streamlit theme with a deep charcoal-navy background, bordered "panel" cards, Inter for text, and IBM Plex Mono for numeric readouts. Teal marks nominal/normal states, amber marks flags and alerts.
