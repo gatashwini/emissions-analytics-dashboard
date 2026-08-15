@@ -74,10 +74,10 @@ Without a key set, the Q&A panel shows an inline amber message instead of failin
 
 | Column | Type | Notes |
 |---|---|---|
-| `facility_name` | text | |
+| `facility_name` | text | Unique facility identifier; groups all metrics, charts, and the drill-down |
 | `state` | text | Two-letter state code |
 | `industry_segment` | text | e.g. "Onshore Production" |
-| `reporting_year` | number | |
+| `reporting_year` | number | e.g. 2019–2023; drives the sidebar year filter and year-over-year anomaly detection |
 | `gas_type` | text | `CO2`, `CH4`, or `N2O` — one row per gas per facility per year |
 | `co2e_emissions_mt` | number, ≥ 0 | CO₂-equivalent emissions in metric tons |
 | `production_boe` | number, ≥ 0 | Repeats across a facility's gas rows for a given year (the dashboard takes the max, not the sum, per facility/year, so it isn't triple-counted) |
